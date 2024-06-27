@@ -17,7 +17,9 @@ jobs:
           python-version: 3.x
 
       - name: Run update script
-        run: python update_readme.py
+        run: steps:
+  - name: Run Python script
+    run: python /.github/workflows/update_readme.py
 
       - name: Commit and push changes
         run: |
