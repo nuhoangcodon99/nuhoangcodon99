@@ -1,8 +1,8 @@
-name: Update README
+name: Update README every minute
 
 on:
   schedule:
-    - cron: '0 * * * *' # Chạy mỗi giờ
+    - cron: '*/1 * * * *' # Chạy mỗi phút
 
 jobs:
   update-readme:
@@ -24,7 +24,7 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
-          git commit -m 'Update GitHub Stats and Trophies in README.md'
+          git commit -m 'Update README.md'
           git push
         env:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
