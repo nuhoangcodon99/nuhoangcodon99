@@ -42,7 +42,7 @@
 ![Team Foundation Server](https://img.shields.io/badge/Team%20Foundation%20Server-FF6C37?style=for-the-badge&logo=tfs&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 
-#  🛠️ IDE
+# 🛠️ IDE
 
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -70,9 +70,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nuhoangcodon99&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/nuhoangcodon99) 
-
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+## 💰You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/nuhoangcodon99)
