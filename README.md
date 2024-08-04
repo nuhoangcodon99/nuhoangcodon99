@@ -4,7 +4,9 @@
 *** I'm a Full-Stack Developer.***
 
 ## 🌐Socials
-[![Zalo](https://img.shields.io/badge/Zalo-%230077B5.svg?logo=zalo&logoColor=white)](https://zalo.me/0343214443) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bengokyeuanh.99) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bengokyeuanh99) 
+[![Zalo](https://img.shields.io/badge/Zalo-%230077B5.svg?logo=zalo&logoColor=white)](https://zalo.me/0343214443) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bengokyeuanh.99) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bengokyeuanh99) 
 
 # 💻 Programming language
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
@@ -89,6 +91,8 @@
 # 🕹️💻Game Engine
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![RPG Maker](https://img.shields.io/badge/RPG_Maker-000000?style=for-the-badge&logo=rpgmaker&logoColor=white)
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=nuhoangcodon99&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
