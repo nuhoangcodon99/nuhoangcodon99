@@ -1,7 +1,7 @@
 # 💫About Me :
 *** 👋Hi, I'm Ánh Ngọc***
 
-*** I am currently a student at HCMUS, majoring in Information Technology. Besides studying, I am also working on small freelance website projects to gain experience. I use GitHub to store some of the knowledge I have acquired. ***
+*** I'm currently a student from HCMUS. My major is Information Technology, Besides studying, I am also working on small freelance website projects to gain experience. I use GitHub to store some of the knowledge I have acquired. ***
 
 ## 🌐Socials
 [![Zalo](https://img.shields.io/badge/Zalo-%230077B5.svg?logo=zalo&logoColor=white)](https://zalo.me/0343214443) 
