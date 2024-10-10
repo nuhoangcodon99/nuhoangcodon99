@@ -4,9 +4,9 @@
 *** I'm currently a student from HCMUS. My major is Information Technology, Besides studying, I am also working on small freelance website projects to gain experience. I use GitHub to store some of the knowledge I have acquired. ***
 
 ## 🌐Socials
-[![Zalo](https://img.shields.io/badge/Zalo-%230077B5.svg?logo=zalo&logoColor=white)](https://zalo.me/0343214443) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bengokyeuanh.99) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bengokyeuanh99) 
+[![Zalo](https://img.shields.io/badge/Zalo-%230077B5.svg?logo=zalo&logoColor=white)](https://zalo.me/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@) 
 
 # 💻 Programming language
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
