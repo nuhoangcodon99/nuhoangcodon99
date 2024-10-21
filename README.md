@@ -4,7 +4,7 @@
 *** I'm currently a student from HCMUS. My major is Information Technology, Besides studying, I am also working on small freelance website projects to gain experience. I use GitHub to store some of the knowledge I have acquired. ***
 
 ## 🌐Socials
-[![Zalo](https://img.shields.io/badge/Zalo-%230077B5.svg?logo=zalo&logoColor=white)](https://zalo.me/) 
+[![Zalo](https://img.shields.io/badge/Zalo-%230077B5.svg?logo=zalo&logoColor=white)](https://zaloapp.com/qr/p/1rjyqe2adw3ux?src=qr) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@) 
 
