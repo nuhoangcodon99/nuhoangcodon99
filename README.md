@@ -24,6 +24,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=plastic&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
 
 # 📚Framework
 ![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=plastic&logo=angular&logoColor=white) 
