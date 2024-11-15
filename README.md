@@ -27,7 +27,7 @@
 
 # 📚Framework
 ![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=plastic&logo=angular&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vue-dot-js&logoColor=%234FC08D) 
+![Vue](https://img.shields.io/badge/vue-35495E.svg?style=plastic&logo=vue.js&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
