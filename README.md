@@ -96,6 +96,11 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![RPG Maker](https://img.shields.io/badge/RPG_Maker-000000?style=for-the-badge&logo=rpgmaker&logoColor=white)
 
+# 📱 OS
+![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=nuhoangcodon99&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
