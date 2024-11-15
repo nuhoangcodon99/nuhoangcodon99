@@ -25,6 +25,8 @@
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=plastic&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-%23276DC3.svg?style=plastic&logo=objective-c&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
 
 # 📚Framework
 ![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=plastic&logo=angular&logoColor=white) 
