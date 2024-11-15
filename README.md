@@ -5,7 +5,7 @@
 
 ## 🌐Socials
 [![Zalo](https://img.shields.io/badge/Zalo-%230077B5.svg?logo=zalo&logoColor=white)](https://zaloapp.com/qr/p/1rjyqe2adw3ux?src=qr) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bengokyeuanh.99) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@) 
 
 # 💻 Programming language
@@ -63,6 +63,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Team Foundation Server](https://img.shields.io/badge/Team%20Foundation%20Server-FF6C37?style=for-the-badge&logo=tfs&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # ☁️Cloud
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
