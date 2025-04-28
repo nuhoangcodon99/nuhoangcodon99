@@ -6,7 +6,7 @@
 ## 🌐Socials
 [![Zalo](https://img.shields.io/badge/Zalo-%230077B5.svg?logo=zalo&logoColor=white)](https://zaloapp.com/qr/p/1rjyqe2adw3ux?src=qr) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bengokyeuanh.99) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bengokyeuanh99) 
 
 # 💻 Programming language
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
